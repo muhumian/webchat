@@ -1,0 +1,12 @@
+.app {
+  padding: 20px;
+}
+.links{
+  display: flex;
+  flex-direction: row;
+}
+.links a{
+  padding-right: 10px;
+  color: gray;
+  text-decoration: none
+}
